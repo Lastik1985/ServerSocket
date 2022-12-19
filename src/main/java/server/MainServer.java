@@ -7,7 +7,7 @@ import java.io.PrintWriter;
 import java.net.ServerSocket;
 import java.net.Socket;
 
-public class Main {
+public class MainServer  {
     public static void main(String[] args) throws IOException {
         System.out.println("Server started!");
         int port = 8080;
